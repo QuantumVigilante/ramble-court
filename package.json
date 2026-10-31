@@ -1,0 +1,8 @@
+{
+  "name": "ramble-court",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Put your rambling prompt on trial.",
+  "scripts": { "start": "node dev-server.js" },
+  "engines": { "node": ">=18" }
+}
